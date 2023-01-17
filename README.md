@@ -1,4 +1,4 @@
-### I'm Cory
+### Hi, I'm Cory 👋
 
 
 - 🔭 I’m currently working on Shopify Projects
