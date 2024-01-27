@@ -1,10 +1,7 @@
 ### Hi, I'm Cory 👋
 
-
-- 🔭 I’m currently working on Shopify Projects
 - 🌱 I’m currently learning JavaScript
-- 💬 Ask me about Shopify Store Setups
-- 📫 How to reach me: coryadams94@yahoo.com
+- 📫 How to reach me: coryladams94@gmail.com
 -->
 <h3>Things I code with</h3>
 <p>
