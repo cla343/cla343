@@ -1,6 +1,6 @@
 ### Hi, I'm Cory 👋
 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React
 - 📫 How to reach me: coryladams94@gmail.com
 -->
 <h3>Things I code with</h3>
